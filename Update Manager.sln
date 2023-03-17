@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Update Manager", "Update Manager\Update Manager.csproj", "{FC06D0F5-950C-4840-AD99-740FFB9482EB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Update_Manager_APP", "Update_Manager_APP\Update_Manager_APP.vdproj", "{71691D99-FDDF-4F50-ABBA-2F7ED7B4C11D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC06D0F5-950C-4840-AD99-740FFB9482EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC06D0F5-950C-4840-AD99-740FFB9482EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC06D0F5-950C-4840-AD99-740FFB9482EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC06D0F5-950C-4840-AD99-740FFB9482EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71691D99-FDDF-4F50-ABBA-2F7ED7B4C11D}.Debug|Any CPU.ActiveCfg = Debug
+		{71691D99-FDDF-4F50-ABBA-2F7ED7B4C11D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF4C736E-8328-4BD0-AEDF-291E2F71F939}
+	EndGlobalSection
+EndGlobal
